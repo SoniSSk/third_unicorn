@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://third-unicorn-egfhx19ap-sonissk.vercel.app/).
+ [`Visit Deploy Code`](https://third-unicorn-egfhx19ap-sonissk.vercel.app/).
 
 ## Getting Started
 
